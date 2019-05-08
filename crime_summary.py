@@ -1,6 +1,3 @@
-
-
-
 with open("state_crime-CS152.csv", "r") as file:
     print("State" + " "*12, "Reported Crimes")
     next(file)
